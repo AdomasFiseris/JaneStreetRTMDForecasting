@@ -1,2 +1,4 @@
 /Data
 xgb_model.json
+/mlruns
+/mlartifacts
