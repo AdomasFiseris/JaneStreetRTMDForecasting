@@ -1,6 +1,10 @@
 /Data
 xgb_model.json
 /mlruns
+<<<<<<< HEAD
 /mlartifacts
 train.libsvm.cache
 val.libsvm.cache
+=======
+/mlartifacts
+>>>>>>> origin/main
