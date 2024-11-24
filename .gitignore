@@ -2,5 +2,5 @@
 xgb_model.json
 /mlruns
 /mlartifacts
-train.libsvm.cashe
-val.libsvm.cashe
+train.libsvm.cache
+val.libsvm.cache
